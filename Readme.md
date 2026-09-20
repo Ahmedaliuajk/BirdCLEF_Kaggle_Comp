@@ -49,7 +49,4 @@ The system generates an `annotated_evaluation.jpg` file to provide visual proof 
 
 ---
 
-## 👤 Author
-**Asghar Ali**
-
-**Roll No:** 2023-SE-42  
+  
